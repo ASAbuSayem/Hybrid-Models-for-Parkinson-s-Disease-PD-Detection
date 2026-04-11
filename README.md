@@ -1,7 +1,6 @@
-# 🧠 PD Detection App — A to Z Setup Guide (FIXED v2)
+# 🧠 PD Detection App — A to Z Setup Guide
 
 **Parkinson's Disease Detection via Hand Drawing Analysis**
-Book Chapter 14 | AI Hybrid Neural Networks | Scrivener/Wiley 2026
 
 ---
 
