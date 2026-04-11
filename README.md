@@ -208,9 +208,7 @@ npx expo run:android
 
 | # | Name | Role |
 |---|------|------|
-| 01 | **Md. Abu Sayem** | Lead Researcher & Developer |
-| 02 | **Dr. Mamta** | Medical Advisor & Co-Author |
-| 03 | **Reduwan Sharafat Kabir** | Co-Author & CEO CloudCoder |
+| 01 | **Md. Abu Sayem** | AI Lead Researcher & Developer |
 
 ---
 
