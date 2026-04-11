@@ -1,0 +1,12 @@
+{
+    "model_name": "Parkinson Detection - MobileNetV2 + SVM",
+    "version": "2.0",
+    "input_size": [
+        224,
+        224,
+        3
+    ],
+    "pca_components": 94,
+    "best_classifier": "SVM (RBF)",
+    "optimized_threshold": -0.4185
+}

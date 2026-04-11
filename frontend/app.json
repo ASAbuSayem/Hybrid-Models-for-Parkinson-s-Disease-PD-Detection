@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "PD Detector",
+    "slug": "pd-detection-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#060B14",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#060B14"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "PD Detector needs access to your photos to upload hand drawings.",
+          "cameraPermission": "PD Detector needs camera access to capture hand drawings."
+        }
+      ]
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#060B14"
+      },
+      "package": "com.pddetection.app",
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.pddetection.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d032e46e-eb1d-41ac-9b27-c47831742a8e"
+      }
+    }
+  }
+}
